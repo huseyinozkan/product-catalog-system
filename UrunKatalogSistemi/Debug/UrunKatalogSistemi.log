@@ -1,0 +1,5 @@
+﻿  UrunKatalogSistemi.cpp
+c:\users\root\source\repos\urunkatalogsistemi\urunkatalogsistemi\urunkatalogsistemi.cpp(389): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\root\source\repos\urunkatalogsistemi\urunkatalogsistemi\urunkatalogsistemi.cpp(871): warning C4715: 'bagAlaninaGoreAra': tüm denetim yolları değer döndürmez
+c:\users\root\source\repos\urunkatalogsistemi\urunkatalogsistemi\urunkatalogsistemi.cpp(943): warning C4715: 'bagAlaninaGöreKayitAra': tüm denetim yolları değer döndürmez
+  UrunKatalogSistemi.vcxproj -> C:\Users\root\source\repos\UrunKatalogSistemi\Debug\UrunKatalogSistemi.exe
